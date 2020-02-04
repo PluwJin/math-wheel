@@ -1,0 +1,5 @@
+Girilen Matris:
+1 2 
+3 4 
+
+Schur Esitsizligi= 29.00 < 30

@@ -1,0 +1,5 @@
+Girilen Matris:
+1	2	
+3	4	
+
+Ozdegerler: 5.372, -0.372
